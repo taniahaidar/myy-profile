@@ -1,0 +1,99 @@
+ h1{
+	color: #8186d5;
+	font font-size: 48px;
+	front font-family: helvetica;
+	text-transform: uppercase;
+
+	.img-circle {
+	border-radius: 50%
+	}
+
+}
+
+h1, h2, h3 {
+	font-family: helvetica
+	color:#8186d5;
+}
+
+h2 {
+	color: #8186d5;
+}
+
+body {
+	background-color: pink;
+	color: red;
+	text-align: center;
+
+}
+
+p{
+	font font-size: 20px;
+	color: purple;
+}
+
+a{
+	color: #8186d5;
+	font-size: 24px;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+a:hover {
+	color: purple;
+}
+
+div{
+	background: pink;
+	border: 2px solid black;
+	margin: 10px;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+}
+
+a:hover {
+	color: purple;
+}l
+
+
+
+  /*custom design with class */
+
+  .container {
+  	width: 700px
+  	margin: 40px auto;
+  }
+
+.card-white {
+	background-color: white
+	padding: 40px
+	box-shadow: 0px 10 px 30 px rgba(0,0,0,0.1);
+	border-radius: 4px
+	margin: 20px 0px 
+	text-align: center;
+
+}
+
+.img-circle {
+	border-radius: 50%
+}
+
+.btn-blue {
+	background-color: purple
+	color:white
+	padding:15px 20px;
+	border-radius: 4px
+}
+
+
+
+
+
+
